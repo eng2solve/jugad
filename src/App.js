@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Datagrid from "./Datagrid" 
 
 function App() {
   return (
-    <div>durgesh</div>
+    <Datagrid/>
     
   );
 }
-
 export default App;
