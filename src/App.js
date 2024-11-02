@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Datagrid from "./Datagrid" 
+import Datagrid from "./components/Datagrid" 
 
 function App() {
   return (
